@@ -17,5 +17,5 @@ This Streamlit application lets you:
 
 ---
 
-## 📁 Folder Structure
+
 
